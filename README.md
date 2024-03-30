@@ -1,18 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## WEATHER APP 
+![Screenshot 2024-03-30 at 17-11-58 WEATHER APP by Tyeree A  Tinker](https://github.com/TyereeTinker/nextjs-weather-app/assets/71784154/e0e3b47a-b4cf-455b-93fc-d35562647531)
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
