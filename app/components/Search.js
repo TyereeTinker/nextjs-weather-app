@@ -23,12 +23,12 @@ function Search() {
    
   return (
     <div>
-      <div className="relative flex justify-between items-center max-w-[500px] w-full m-auto pt-4 z-10">
-          <form onSubmit={fetchWeather} className="flex justify-between items-center w-full m-auto p-3 bg-transparent border border-gray-300 text-black rounded-2xl">
+      <div className="relative flex justify-between items-center max-w-[500px] w-full m-auto pt-4 z-10 ">
+          <form onSubmit={fetchWeather} className="flex justify-between items-center w-full m-auto p-3 bg-transparent border border-gray-300 text-black rounded-2xl ">
             <div>
               <input 
                 onChange={(e) => setCity(e.target.value)}
-                className="bg-transparent border-none text-black focus:outline-none text-2xl" 
+                className="bg-transparent border-none text-black focus:outline-none text-2xl " 
                 type="text" 
                 placeholder="SEARCH CITY"
               />
