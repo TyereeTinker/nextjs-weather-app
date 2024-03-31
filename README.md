@@ -1,7 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## WEATHER APP 
-![Screenshot 2024-03-30 at 17-11-58 WEATHER APP by Tyeree A  Tinker](https://github.com/TyereeTinker/nextjs-weather-app/assets/71784154/e0e3b47a-b4cf-455b-93fc-d35562647531)
+![image](https://github.com/TyereeTinker/nextjs-weather-app/assets/71784154/0cc44a5c-5d22-45d1-9718-2b9f021ebfb6)
+
 
 
 
